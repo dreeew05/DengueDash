@@ -20,9 +20,6 @@ htmlcov/
 *.swp
 *.swo
 
-# SQLite database file (if used for development)
-db.sqlite3
-
 # Media and static files generated during development (if not collected in a dedicated volume)
 media/
 static_collected/ # Or whatever directory you use for collected static files
@@ -45,6 +42,3 @@ docker-compose*.yml
 dist/
 build/
 *.egg-info/
-
-# Database files
-db.sqlite3
