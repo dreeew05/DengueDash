@@ -1,5 +1,4 @@
 import { ModelPredictions } from "@/interfaces/forecasting/predictions.interface";
-import { Badge } from "@/shadcn/components/ui/badge";
 import {
   Card,
   CardContent,

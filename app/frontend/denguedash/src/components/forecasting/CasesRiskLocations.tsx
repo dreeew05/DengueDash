@@ -1,5 +1,4 @@
 import { ByLocationInterface } from "@/interfaces/stat/stat.interfaces";
-import { Badge } from "@/shadcn/components/ui/badge";
 import {
   Card,
   CardContent,
