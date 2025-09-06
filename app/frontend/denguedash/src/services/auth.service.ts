@@ -5,7 +5,6 @@ export const axiosProtected = axios.create({
   withCredentials: true,
   headers: {
     "Content-Type": "application/json",
-    "Access-Control-Allow-Origin": "*",
   },
 });
 
@@ -13,7 +12,6 @@ export const axiosOpen = axios.create({
   baseURL: process.env.NEXT_PUBLIC_DJANGO_URL,
   headers: {
     "Content-Type": "application/json",
-    "Access-Control-Allow-Origin": "*",
   },
 });
 
