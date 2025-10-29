@@ -51,3 +51,8 @@ Thumbs.db
 
 # LaTeX project files
 *.latexmk
+
+# Ignore signatures
+figures/glensignature.png
+figures/kurtsignature.png
+figures/carlsignature.png
