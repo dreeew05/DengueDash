@@ -1,0 +1,1788 @@
+[
+  {
+    "week": "2021-w1",
+    "alive_cases": [
+      {
+        "barangay": "Bito-on",
+        "cases": 1
+      },
+      {
+        "barangay": "Bonifacio Tanza",
+        "cases": 1
+      },
+      {
+        "barangay": "Buhang",
+        "cases": 1
+      },
+      {
+        "barangay": "Calahunan",
+        "cases": 1
+      },
+      {
+        "barangay": "Calaparan",
+        "cases": 6
+      },
+      {
+        "barangay": "Dungon",
+        "cases": 1
+      },
+      {
+        "barangay": "General Hughes-Montes",
+        "cases": 1
+      },
+      {
+        "barangay": "Hibao-an Norte",
+        "cases": 1
+      },
+      {
+        "barangay": "Jalandoni-Wilson",
+        "cases": 1
+      },
+      {
+        "barangay": "Liberation",
+        "cases": 1
+      },
+      {
+        "barangay": "Marcelo H. del Pilar",
+        "cases": 1
+      },
+      {
+        "barangay": "Obrero-Lapuz",
+        "cases": 1
+      },
+      {
+        "barangay": "Punong-Lapuz",
+        "cases": 1
+      },
+      {
+        "barangay": "Santo Rosario-Duran",
+        "cases": 1
+      },
+      {
+        "barangay": "West Timawa",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 30.55555556,
+      "humidity": 85.41428571,
+      "rainfall": 3.048
+    }
+  },
+  {
+    "week": "2021-w2",
+    "alive_cases": [
+      {
+        "barangay": "Balabago",
+        "cases": 1
+      },
+      {
+        "barangay": "Calaparan",
+        "cases": 2
+      },
+      {
+        "barangay": "Delgado-Jalandoni-Bagumbayan",
+        "cases": 1
+      },
+      {
+        "barangay": "San Pedro (Molo)",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 30.0,
+      "humidity": 87.57142857,
+      "rainfall": 3.048
+    }
+  },
+  {
+    "week": "2021-w3",
+    "alive_cases": [
+      {
+        "barangay": "Lanit",
+        "cases": 1
+      },
+      {
+        "barangay": "Obrero-Lapuz",
+        "cases": 1
+      },
+      {
+        "barangay": "Zamora-Melliza",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 31.11111111,
+      "humidity": 87.17142857,
+      "rainfall": 9.144
+    }
+  },
+  {
+    "week": "2021-w4",
+    "alive_cases": [
+      {
+        "barangay": "Bolilao",
+        "cases": 1
+      },
+      {
+        "barangay": "Calaparan",
+        "cases": 1
+      },
+      {
+        "barangay": "Calumpang",
+        "cases": 1
+      },
+      {
+        "barangay": "PHHC Block 22 NHA",
+        "cases": 1
+      },
+      {
+        "barangay": "Rizal Palapala II",
+        "cases": 1
+      },
+      {
+        "barangay": "San Roque",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 30.55555556,
+      "humidity": 84.24285714,
+      "rainfall": 1.27
+    }
+  },
+  {
+    "week": "2021-w5",
+    "alive_cases": [
+      {
+        "barangay": "Airport (Tabucan Airport)",
+        "cases": 1
+      },
+      {
+        "barangay": "Bolilao",
+        "cases": 1
+      },
+      {
+        "barangay": "Delgado-Jalandoni-Bagumbayan",
+        "cases": 1
+      },
+      {
+        "barangay": "Dungon",
+        "cases": 1
+      },
+      {
+        "barangay": "East Baluarte",
+        "cases": 1
+      },
+      {
+        "barangay": "Jalandoni-Wilson",
+        "cases": 1
+      },
+      {
+        "barangay": "Mansaya-Lapuz",
+        "cases": 1
+      },
+      {
+        "barangay": "Tabuc Suba (Jaro)",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 30.0,
+      "humidity": 85.94285714,
+      "rainfall": 0.0
+    }
+  },
+  {
+    "week": "2021-w6",
+    "alive_cases": [
+      {
+        "barangay": "Calahunan",
+        "cases": 1
+      },
+      {
+        "barangay": "Dungon",
+        "cases": 2
+      },
+      {
+        "barangay": "East Baluarte",
+        "cases": 1
+      },
+      {
+        "barangay": "East Timawa",
+        "cases": 1
+      },
+      {
+        "barangay": "Guzman-Jesena",
+        "cases": 1
+      },
+      {
+        "barangay": "Molo Boulevard",
+        "cases": 1
+      },
+      {
+        "barangay": "Veterans Village",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 30.55555556,
+      "humidity": 87.85714286,
+      "rainfall": 0.0
+    }
+  },
+  {
+    "week": "2021-w7",
+    "alive_cases": [
+      {
+        "barangay": "Banuyao",
+        "cases": 1
+      },
+      {
+        "barangay": "Buntatala",
+        "cases": 1
+      },
+      {
+        "barangay": "Calaparan",
+        "cases": 1
+      },
+      {
+        "barangay": "East Baluarte",
+        "cases": 1
+      },
+      {
+        "barangay": "Habog-habog Salvacion",
+        "cases": 2
+      },
+      {
+        "barangay": "Maria Cristina",
+        "cases": 1
+      },
+      {
+        "barangay": "Molo Boulevard",
+        "cases": 1
+      },
+      {
+        "barangay": "Tacas",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 30.0,
+      "humidity": 85.55714286,
+      "rainfall": 9.144
+    }
+  },
+  {
+    "week": "2021-w8",
+    "alive_cases": [
+      {
+        "barangay": "Calaparan",
+        "cases": 1
+      },
+      {
+        "barangay": "Camalig",
+        "cases": 1
+      },
+      {
+        "barangay": "Dulonan",
+        "cases": 1
+      },
+      {
+        "barangay": "Guzman-Jesena",
+        "cases": 1
+      },
+      {
+        "barangay": "Veterans Village",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 31.66666667,
+      "humidity": 81.44285714,
+      "rainfall": 1.27
+    }
+  },
+  {
+    "week": "2021-w9",
+    "alive_cases": [
+      {
+        "barangay": "Airport (Tabucan Airport)",
+        "cases": 1
+      },
+      {
+        "barangay": "Bonifacio (Arevalo)",
+        "cases": 1
+      },
+      {
+        "barangay": "Buhang",
+        "cases": 1
+      },
+      {
+        "barangay": "Compania",
+        "cases": 1
+      },
+      {
+        "barangay": "Concepcion-Montes",
+        "cases": 1
+      },
+      {
+        "barangay": "North San Jose",
+        "cases": 1
+      },
+      {
+        "barangay": "San Isidro (Jaro)",
+        "cases": 1
+      },
+      {
+        "barangay": "Zamora-Melliza",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 31.66666667,
+      "humidity": 82.74285714,
+      "rainfall": 6.858
+    }
+  },
+  {
+    "week": "2021-w10",
+    "alive_cases": [
+      {
+        "barangay": "Balabago",
+        "cases": 1
+      },
+      {
+        "barangay": "Marcelo H. del Pilar",
+        "cases": 1
+      },
+      {
+        "barangay": "Obrero-Lapuz",
+        "cases": 1
+      },
+      {
+        "barangay": "Poblacion Molo",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 31.66666667,
+      "humidity": 83.14285714,
+      "rainfall": 9.906
+    }
+  },
+  {
+    "week": "2021-w11",
+    "alive_cases": [
+      {
+        "barangay": "Airport (Tabucan Airport)",
+        "cases": 1
+      },
+      {
+        "barangay": "Dungon",
+        "cases": 1
+      },
+      {
+        "barangay": "Hipodromo",
+        "cases": 1
+      },
+      {
+        "barangay": "Oñate de Leon",
+        "cases": 1
+      },
+      {
+        "barangay": "Santo Niño Norte",
+        "cases": 1
+      },
+      {
+        "barangay": "Santo Rosario-Duran",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 31.66666667,
+      "humidity": 84.94285714,
+      "rainfall": 5.08
+    }
+  },
+  {
+    "week": "2021-w12",
+    "alive_cases": [
+      {
+        "barangay": "Airport (Tabucan Airport)",
+        "cases": 1
+      },
+      {
+        "barangay": "Hipodromo",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 32.22222222,
+      "humidity": 81.45714286,
+      "rainfall": 1.016
+    }
+  },
+  {
+    "week": "2021-w13",
+    "alive_cases": [
+      {
+        "barangay": "Montinola",
+        "cases": 1
+      },
+      {
+        "barangay": "North Baluarte",
+        "cases": 1
+      },
+      {
+        "barangay": "Rizal Palapala II",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 31.66666667,
+      "humidity": 81.34285714,
+      "rainfall": 0.0
+    }
+  },
+  {
+    "week": "2021-w14",
+    "alive_cases": [
+      {
+        "barangay": "Benedicto (Jaro)",
+        "cases": 1
+      },
+      {
+        "barangay": "Calumpang",
+        "cases": 1
+      },
+      {
+        "barangay": "West Timawa",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 31.66666667,
+      "humidity": 78.65714286,
+      "rainfall": 4.572
+    }
+  },
+  {
+    "week": "2021-w15",
+    "alive_cases": [
+      {
+        "barangay": "Abeto Mirasol Taft South (Quirino Abeto)",
+        "cases": 1
+      },
+      {
+        "barangay": "Buntatala",
+        "cases": 1
+      },
+      {
+        "barangay": "Dungon",
+        "cases": 1
+      },
+      {
+        "barangay": "North Fundidor",
+        "cases": 1
+      },
+      {
+        "barangay": "Sinikway (Bangkerohan Lapuz)",
+        "cases": 1
+      },
+      {
+        "barangay": "Tabuc Suba (Jaro)",
+        "cases": 1
+      },
+      {
+        "barangay": "Tanza-Esperanza",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 31.66666667,
+      "humidity": 81.98571429,
+      "rainfall": 11.938
+    }
+  },
+  {
+    "week": "2021-w16",
+    "alive_cases": [],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 32.22222222,
+      "humidity": 82.07142857,
+      "rainfall": 1.778
+    }
+  },
+  {
+    "week": "2021-w17",
+    "alive_cases": [
+      {
+        "barangay": "Lanit",
+        "cases": 1
+      },
+      {
+        "barangay": "Navais",
+        "cases": 1
+      },
+      {
+        "barangay": "Poblacion Molo",
+        "cases": 1
+      },
+      {
+        "barangay": "Simon Ledesma",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 32.22222222,
+      "humidity": 79.04285714,
+      "rainfall": 2.032
+    }
+  },
+  {
+    "week": "2021-w18",
+    "alive_cases": [
+      {
+        "barangay": "Concepcion-Montes",
+        "cases": 1
+      },
+      {
+        "barangay": "Jalandoni-Wilson",
+        "cases": 1
+      },
+      {
+        "barangay": "Sambag",
+        "cases": 1
+      },
+      {
+        "barangay": "San Juan",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 32.77777778,
+      "humidity": 79.14285714,
+      "rainfall": 1.778
+    }
+  },
+  {
+    "week": "2021-w19",
+    "alive_cases": [
+      {
+        "barangay": "Divinagracia",
+        "cases": 1
+      },
+      {
+        "barangay": "So-oc",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 32.77777778,
+      "humidity": 80.28571429,
+      "rainfall": 1.524
+    }
+  },
+  {
+    "week": "2021-w20",
+    "alive_cases": [
+      {
+        "barangay": "Mansaya-Lapuz",
+        "cases": 1
+      },
+      {
+        "barangay": "Molo Boulevard",
+        "cases": 1
+      },
+      {
+        "barangay": "Tabuc Suba (Jaro)",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 32.22222222,
+      "humidity": 82.35714286,
+      "rainfall": 3.556
+    }
+  },
+  {
+    "week": "2021-w21",
+    "alive_cases": [
+      {
+        "barangay": "Divinagracia",
+        "cases": 1
+      },
+      {
+        "barangay": "Magsaysay Village",
+        "cases": 1
+      },
+      {
+        "barangay": "Montinola",
+        "cases": 1
+      },
+      {
+        "barangay": "Oñate de Leon",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 32.77777778,
+      "humidity": 78.97142857,
+      "rainfall": 0.0
+    }
+  },
+  {
+    "week": "2021-w22",
+    "alive_cases": [
+      {
+        "barangay": "Cuartero",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 33.33333333,
+      "humidity": 82.97142857,
+      "rainfall": 0.0
+    }
+  },
+  {
+    "week": "2021-w23",
+    "alive_cases": [
+      {
+        "barangay": "Buntatala",
+        "cases": 1
+      },
+      {
+        "barangay": "Caingin",
+        "cases": 2
+      },
+      {
+        "barangay": "Hibao-an Sur",
+        "cases": 2
+      },
+      {
+        "barangay": "Magsaysay Village",
+        "cases": 1
+      },
+      {
+        "barangay": "Quezon",
+        "cases": 1
+      },
+      {
+        "barangay": "South Fundidor",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 32.22222222,
+      "humidity": 83.14285714,
+      "rainfall": 13.462
+    }
+  },
+  {
+    "week": "2021-w24",
+    "alive_cases": [
+      {
+        "barangay": "Guzman-Jesena",
+        "cases": 1
+      },
+      {
+        "barangay": "Jalandoni Estate-Lapuz",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 33.33333333,
+      "humidity": 81.51428571,
+      "rainfall": 8.128
+    }
+  },
+  {
+    "week": "2021-w25",
+    "alive_cases": [
+      {
+        "barangay": "Alalasan Lapuz",
+        "cases": 1
+      },
+      {
+        "barangay": "Bakhaw",
+        "cases": 1
+      },
+      {
+        "barangay": "Bito-on",
+        "cases": 1
+      },
+      {
+        "barangay": "Buntatala",
+        "cases": 1
+      },
+      {
+        "barangay": "Caingin",
+        "cases": 1
+      },
+      {
+        "barangay": "Compania",
+        "cases": 1
+      },
+      {
+        "barangay": "East Timawa",
+        "cases": 1
+      },
+      {
+        "barangay": "Hibao-an Sur",
+        "cases": 2
+      },
+      {
+        "barangay": "Lapuz Norte",
+        "cases": 1
+      },
+      {
+        "barangay": "Lopez Jaena Norte",
+        "cases": 1
+      },
+      {
+        "barangay": "Magsaysay Village",
+        "cases": 1
+      },
+      {
+        "barangay": "South Fundidor",
+        "cases": 1
+      },
+      {
+        "barangay": "Tabuc Suba (La Paz)",
+        "cases": 1
+      },
+      {
+        "barangay": "Taytay Zone II",
+        "cases": 1
+      },
+      {
+        "barangay": "Veterans Village",
+        "cases": 2
+      },
+      {
+        "barangay": "Zamora-Melliza",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 32.77777778,
+      "humidity": 81.07142857,
+      "rainfall": 12.954
+    }
+  },
+  {
+    "week": "2021-w26",
+    "alive_cases": [
+      {
+        "barangay": "Bito-on",
+        "cases": 1
+      },
+      {
+        "barangay": "Caingin",
+        "cases": 4
+      },
+      {
+        "barangay": "Cubay",
+        "cases": 1
+      },
+      {
+        "barangay": "East Timawa",
+        "cases": 1
+      },
+      {
+        "barangay": "Guzman-Jesena",
+        "cases": 1
+      },
+      {
+        "barangay": "Jereos",
+        "cases": 4
+      },
+      {
+        "barangay": "Montinola",
+        "cases": 1
+      },
+      {
+        "barangay": "Nabitasan",
+        "cases": 1
+      },
+      {
+        "barangay": "Obrero-Lapuz",
+        "cases": 1
+      },
+      {
+        "barangay": "San Pedro (Molo)",
+        "cases": 1
+      },
+      {
+        "barangay": "So-oc",
+        "cases": 3
+      },
+      {
+        "barangay": "Tabuc Suba (La Paz)",
+        "cases": 1
+      },
+      {
+        "barangay": "Yulo Drive",
+        "cases": 1
+      },
+      {
+        "barangay": "Zamora-Melliza",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 32.77777778,
+      "humidity": 80.42857143,
+      "rainfall": 14.986
+    }
+  },
+  {
+    "week": "2021-w27",
+    "alive_cases": [
+      {
+        "barangay": "Arguelles",
+        "cases": 1
+      },
+      {
+        "barangay": "Bakhaw",
+        "cases": 1
+      },
+      {
+        "barangay": "Bito-on",
+        "cases": 1
+      },
+      {
+        "barangay": "Bolilao",
+        "cases": 1
+      },
+      {
+        "barangay": "Caingin",
+        "cases": 2
+      },
+      {
+        "barangay": "Hibao-an Norte",
+        "cases": 1
+      },
+      {
+        "barangay": "Lapuz Sur",
+        "cases": 1
+      },
+      {
+        "barangay": "Lopez Jaena Norte",
+        "cases": 3
+      },
+      {
+        "barangay": "Molo Boulevard",
+        "cases": 1
+      },
+      {
+        "barangay": "Obrero-Lapuz",
+        "cases": 1
+      },
+      {
+        "barangay": "Poblacion Molo",
+        "cases": 1
+      },
+      {
+        "barangay": "Quezon",
+        "cases": 1
+      },
+      {
+        "barangay": "Rima-Rizal",
+        "cases": 1
+      },
+      {
+        "barangay": "San Isidro (Jaro)",
+        "cases": 1
+      },
+      {
+        "barangay": "Santo Rosario-Duran",
+        "cases": 1
+      },
+      {
+        "barangay": "South Fundidor",
+        "cases": 1
+      },
+      {
+        "barangay": "Tabuc Suba (Jaro)",
+        "cases": 1
+      },
+      {
+        "barangay": "Tabuc Suba (La Paz)",
+        "cases": 1
+      },
+      {
+        "barangay": "Zamora-Melliza",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 32.22222222,
+      "humidity": 83.48571429,
+      "rainfall": 4.572
+    }
+  },
+  {
+    "week": "2021-w28",
+    "alive_cases": [
+      {
+        "barangay": "Baldoza",
+        "cases": 1
+      },
+      {
+        "barangay": "Burgos-Mabini-Plaza",
+        "cases": 1
+      },
+      {
+        "barangay": "Guzman-Jesena",
+        "cases": 2
+      },
+      {
+        "barangay": "Hibao-an Sur",
+        "cases": 3
+      },
+      {
+        "barangay": "Jereos",
+        "cases": 1
+      },
+      {
+        "barangay": "Marcelo H. del Pilar",
+        "cases": 1
+      },
+      {
+        "barangay": "Montinola",
+        "cases": 1
+      },
+      {
+        "barangay": "Obrero-Lapuz",
+        "cases": 1
+      },
+      {
+        "barangay": "Poblacion Molo",
+        "cases": 1
+      },
+      {
+        "barangay": "Rima-Rizal",
+        "cases": 1
+      },
+      {
+        "barangay": "South Fundidor",
+        "cases": 2
+      },
+      {
+        "barangay": "Tabucan",
+        "cases": 1
+      },
+      {
+        "barangay": "Veterans Village",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 32.77777778,
+      "humidity": 80.75714286,
+      "rainfall": 0.0
+    }
+  },
+  {
+    "week": "2021-w29",
+    "alive_cases": [
+      {
+        "barangay": "Baldoza",
+        "cases": 2
+      },
+      {
+        "barangay": "Caingin",
+        "cases": 2
+      },
+      {
+        "barangay": "Compania",
+        "cases": 1
+      },
+      {
+        "barangay": "Cuartero",
+        "cases": 1
+      },
+      {
+        "barangay": "Guzman-Jesena",
+        "cases": 1
+      },
+      {
+        "barangay": "Jereos",
+        "cases": 1
+      },
+      {
+        "barangay": "Molo Boulevard",
+        "cases": 1
+      },
+      {
+        "barangay": "Pale Benedicto Rizal (Mandurriao)",
+        "cases": 1
+      },
+      {
+        "barangay": "Quezon",
+        "cases": 1
+      },
+      {
+        "barangay": "Sinikway (Bangkerohan Lapuz)",
+        "cases": 1
+      },
+      {
+        "barangay": "So-oc",
+        "cases": 2
+      },
+      {
+        "barangay": "Tabuc Suba (Jaro)",
+        "cases": 1
+      },
+      {
+        "barangay": "Veterans Village",
+        "cases": 1
+      },
+      {
+        "barangay": "Yulo Drive",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 33.33333333,
+      "humidity": 80.35714286,
+      "rainfall": 6.858
+    }
+  },
+  {
+    "week": "2021-w30",
+    "alive_cases": [
+      {
+        "barangay": "Balabago",
+        "cases": 1
+      },
+      {
+        "barangay": "Bantud",
+        "cases": 1
+      },
+      {
+        "barangay": "Caingin",
+        "cases": 1
+      },
+      {
+        "barangay": "Calumpang",
+        "cases": 1
+      },
+      {
+        "barangay": "Don Esteban-Lapuz",
+        "cases": 1
+      },
+      {
+        "barangay": "Guzman-Jesena",
+        "cases": 1
+      },
+      {
+        "barangay": "Lapuz Norte",
+        "cases": 1
+      },
+      {
+        "barangay": "Lopez Jaena Norte",
+        "cases": 2
+      },
+      {
+        "barangay": "M. V. Hechanova",
+        "cases": 1
+      },
+      {
+        "barangay": "Magsaysay Village",
+        "cases": 1
+      },
+      {
+        "barangay": "Molo Boulevard",
+        "cases": 2
+      },
+      {
+        "barangay": "Nabitasan",
+        "cases": 1
+      },
+      {
+        "barangay": "Oñate de Leon",
+        "cases": 1
+      },
+      {
+        "barangay": "Rizal Palapala I",
+        "cases": 1
+      },
+      {
+        "barangay": "Santo Niño Sur",
+        "cases": 1
+      },
+      {
+        "barangay": "Simon Ledesma",
+        "cases": 1
+      },
+      {
+        "barangay": "Tabuc Suba (La Paz)",
+        "cases": 1
+      },
+      {
+        "barangay": "Tagbac",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 33.33333333,
+      "humidity": 79.14285714,
+      "rainfall": 5.08
+    }
+  },
+  {
+    "week": "2021-w31",
+    "alive_cases": [
+      {
+        "barangay": "Abeto Mirasol Taft South (Quirino Abeto)",
+        "cases": 1
+      },
+      {
+        "barangay": "Calahunan",
+        "cases": 1
+      },
+      {
+        "barangay": "Concepcion-Montes",
+        "cases": 1
+      },
+      {
+        "barangay": "Divinagracia",
+        "cases": 1
+      },
+      {
+        "barangay": "Don Esteban-Lapuz",
+        "cases": 1
+      },
+      {
+        "barangay": "Dungon B",
+        "cases": 1
+      },
+      {
+        "barangay": "Guzman-Jesena",
+        "cases": 1
+      },
+      {
+        "barangay": "Kasingkasing",
+        "cases": 1
+      },
+      {
+        "barangay": "Mansaya-Lapuz",
+        "cases": 1
+      },
+      {
+        "barangay": "Montinola",
+        "cases": 1
+      },
+      {
+        "barangay": "Oñate de Leon",
+        "cases": 1
+      },
+      {
+        "barangay": "Tabuc Suba (Jaro)",
+        "cases": 2
+      },
+      {
+        "barangay": "Tacas",
+        "cases": 1
+      },
+      {
+        "barangay": "Tagbac",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 33.88888889,
+      "humidity": 79.08571429,
+      "rainfall": 7.874
+    }
+  },
+  {
+    "week": "2021-w32",
+    "alive_cases": [
+      {
+        "barangay": "Balantang",
+        "cases": 1
+      },
+      {
+        "barangay": "Baldoza",
+        "cases": 1
+      },
+      {
+        "barangay": "Buhang",
+        "cases": 1
+      },
+      {
+        "barangay": "Macarthur",
+        "cases": 1
+      },
+      {
+        "barangay": "Our Lady of Fatima",
+        "cases": 1
+      },
+      {
+        "barangay": "Our Lady of Lourdes",
+        "cases": 1
+      },
+      {
+        "barangay": "Poblacion Molo",
+        "cases": 1
+      },
+      {
+        "barangay": "Rima-Rizal",
+        "cases": 1
+      },
+      {
+        "barangay": "Rizal Palapala I",
+        "cases": 1
+      },
+      {
+        "barangay": "So-oc",
+        "cases": 2
+      },
+      {
+        "barangay": "Tabuc Suba (Jaro)",
+        "cases": 1
+      },
+      {
+        "barangay": "Veterans Village",
+        "cases": 1
+      },
+      {
+        "barangay": "Yulo Drive",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 33.88888889,
+      "humidity": 82.15714286,
+      "rainfall": 0.762
+    }
+  },
+  {
+    "week": "2021-w33",
+    "alive_cases": [
+      {
+        "barangay": "Abeto Mirasol Taft South (Quirino Abeto)",
+        "cases": 1
+      },
+      {
+        "barangay": "Bakhaw",
+        "cases": 1
+      },
+      {
+        "barangay": "Ingore",
+        "cases": 1
+      },
+      {
+        "barangay": "Jalandoni-Wilson",
+        "cases": 1
+      },
+      {
+        "barangay": "Macarthur",
+        "cases": 1
+      },
+      {
+        "barangay": "North Fundidor",
+        "cases": 1
+      },
+      {
+        "barangay": "Obrero-Lapuz",
+        "cases": 2
+      },
+      {
+        "barangay": "Railway",
+        "cases": 1
+      },
+      {
+        "barangay": "San Isidro (Jaro)",
+        "cases": 1
+      },
+      {
+        "barangay": "Simon Ledesma",
+        "cases": 1
+      },
+      {
+        "barangay": "Zamora-Melliza",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 32.77777778,
+      "humidity": 80.65714286,
+      "rainfall": 18.796
+    }
+  },
+  {
+    "week": "2021-w34",
+    "alive_cases": [
+      {
+        "barangay": "Airport (Tabucan Airport)",
+        "cases": 1
+      },
+      {
+        "barangay": "Dulonan",
+        "cases": 1
+      },
+      {
+        "barangay": "Santo Niño Norte",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 32.77777778,
+      "humidity": 82.07142857,
+      "rainfall": 7.62
+    }
+  },
+  {
+    "week": "2021-w35",
+    "alive_cases": [
+      {
+        "barangay": "Abeto Mirasol Taft South (Quirino Abeto)",
+        "cases": 1
+      },
+      {
+        "barangay": "Burgos-Mabini-Plaza",
+        "cases": 1
+      },
+      {
+        "barangay": "Calumpang",
+        "cases": 1
+      },
+      {
+        "barangay": "Hibao-an Norte",
+        "cases": 1
+      },
+      {
+        "barangay": "M. V. Hechanova",
+        "cases": 1
+      },
+      {
+        "barangay": "Sinikway (Bangkerohan Lapuz)",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 32.22222222,
+      "humidity": 83.58571429,
+      "rainfall": 21.59
+    }
+  },
+  {
+    "week": "2021-w36",
+    "alive_cases": [
+      {
+        "barangay": "Calahunan",
+        "cases": 1
+      },
+      {
+        "barangay": "Pale Benedicto Rizal (Mandurriao)",
+        "cases": 1
+      },
+      {
+        "barangay": "Santa Cruz",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 33.33333333,
+      "humidity": 84.55714286,
+      "rainfall": 16.764
+    }
+  },
+  {
+    "week": "2021-w37",
+    "alive_cases": [
+      {
+        "barangay": "Airport (Tabucan Airport)",
+        "cases": 1
+      },
+      {
+        "barangay": "Marcelo H. del Pilar",
+        "cases": 1
+      },
+      {
+        "barangay": "Punong-Lapuz",
+        "cases": 1
+      },
+      {
+        "barangay": "San Vicente",
+        "cases": 1
+      },
+      {
+        "barangay": "Tagbac",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 32.22222222,
+      "humidity": 82.22857143,
+      "rainfall": 7.112
+    }
+  },
+  {
+    "week": "2021-w38",
+    "alive_cases": [
+      {
+        "barangay": "Balabago",
+        "cases": 1
+      },
+      {
+        "barangay": "Gustilo",
+        "cases": 1
+      },
+      {
+        "barangay": "Tabuc Suba (La Paz)",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 32.77777778,
+      "humidity": 85.78571429,
+      "rainfall": 3.556
+    }
+  },
+  {
+    "week": "2021-w39",
+    "alive_cases": [
+      {
+        "barangay": "Buntatala",
+        "cases": 1
+      },
+      {
+        "barangay": "Democracia",
+        "cases": 1
+      },
+      {
+        "barangay": "Dungon",
+        "cases": 1
+      },
+      {
+        "barangay": "Lapuz Norte",
+        "cases": 1
+      },
+      {
+        "barangay": "Magsaysay Village",
+        "cases": 1
+      },
+      {
+        "barangay": "PHHC Block 22 NHA",
+        "cases": 2
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 32.77777778,
+      "humidity": 81.05714286,
+      "rainfall": 10.414
+    }
+  },
+  {
+    "week": "2021-w40",
+    "alive_cases": [
+      {
+        "barangay": "Abeto Mirasol Taft South (Quirino Abeto)",
+        "cases": 1
+      },
+      {
+        "barangay": "Desamparados",
+        "cases": 1
+      },
+      {
+        "barangay": "Santa Cruz",
+        "cases": 1
+      },
+      {
+        "barangay": "Taal",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 32.77777778,
+      "humidity": 83.25714286,
+      "rainfall": 7.366
+    }
+  },
+  {
+    "week": "2021-w41",
+    "alive_cases": [
+      {
+        "barangay": "Baldoza",
+        "cases": 1
+      },
+      {
+        "barangay": "Calubihan",
+        "cases": 1
+      },
+      {
+        "barangay": "Democracia",
+        "cases": 1
+      },
+      {
+        "barangay": "Loboc-Lapuz",
+        "cases": 1
+      },
+      {
+        "barangay": "Rizal Estanzuela",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 32.22222222,
+      "humidity": 82.58571429,
+      "rainfall": 5.334
+    }
+  },
+  {
+    "week": "2021-w42",
+    "alive_cases": [
+      {
+        "barangay": "Buhang",
+        "cases": 1
+      },
+      {
+        "barangay": "Burgos-Mabini-Plaza",
+        "cases": 1
+      },
+      {
+        "barangay": "Lopez Jaena (Jaro)",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 33.33333333,
+      "humidity": 83.65714286,
+      "rainfall": 1.524
+    }
+  },
+  {
+    "week": "2021-w43",
+    "alive_cases": [
+      {
+        "barangay": "Loboc-Lapuz",
+        "cases": 1
+      },
+      {
+        "barangay": "Marcelo H. del Pilar",
+        "cases": 1
+      },
+      {
+        "barangay": "Taal",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 32.22222222,
+      "humidity": 84.34285714,
+      "rainfall": 16.256
+    }
+  },
+  {
+    "week": "2021-w44",
+    "alive_cases": [
+      {
+        "barangay": "Pale Benedicto Rizal (Mandurriao)",
+        "cases": 1
+      },
+      {
+        "barangay": "Taytay Zone II",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 32.22222222,
+      "humidity": 82.84285714,
+      "rainfall": 6.096
+    }
+  },
+  {
+    "week": "2021-w45",
+    "alive_cases": [
+      {
+        "barangay": "Guzman-Jesena",
+        "cases": 1
+      },
+      {
+        "barangay": "Hibao-an Norte",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 32.77777778,
+      "humidity": 82.97142857,
+      "rainfall": 9.144
+    }
+  },
+  {
+    "week": "2021-w46",
+    "alive_cases": [
+      {
+        "barangay": "Bakhaw",
+        "cases": 1
+      },
+      {
+        "barangay": "Calahunan",
+        "cases": 1
+      },
+      {
+        "barangay": "Camalig",
+        "cases": 2
+      },
+      {
+        "barangay": "Santo Niño Sur",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 32.22222222,
+      "humidity": 83.01428571,
+      "rainfall": 3.048
+    }
+  },
+  {
+    "week": "2021-w47",
+    "alive_cases": [
+      {
+        "barangay": "Baldoza",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 32.22222222,
+      "humidity": 83.38571429,
+      "rainfall": 9.906
+    }
+  },
+  {
+    "week": "2021-w48",
+    "alive_cases": [
+      {
+        "barangay": "Hibao-an Sur",
+        "cases": 1
+      },
+      {
+        "barangay": "Oñate de Leon",
+        "cases": 1
+      },
+      {
+        "barangay": "San Nicolas",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 32.22222222,
+      "humidity": 81.95714286,
+      "rainfall": 9.906
+    }
+  },
+  {
+    "week": "2021-w49",
+    "alive_cases": [
+      {
+        "barangay": "Navais",
+        "cases": 1
+      },
+      {
+        "barangay": "Pale Benedicto Rizal (Mandurriao)",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 30.55555556,
+      "humidity": 79.78571429,
+      "rainfall": 3.81
+    }
+  },
+  {
+    "week": "2021-w50",
+    "alive_cases": [
+      {
+        "barangay": "Camalig",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 30.55555556,
+      "humidity": 82.32857143,
+      "rainfall": 5.588
+    }
+  },
+  {
+    "week": "2021-w51",
+    "alive_cases": [
+      {
+        "barangay": "Calahunan",
+        "cases": 1
+      }
+    ],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 31.11111111,
+      "humidity": 82.91428571,
+      "rainfall": 0.0
+    }
+  },
+  {
+    "week": "2021-w52",
+    "alive_cases": [],
+    "death_cases": [],
+    "weather": {
+      "max_temperature": 28.88888889,
+      "humidity": 81.78571429,
+      "rainfall": 7.366
+    }
+  }
+]

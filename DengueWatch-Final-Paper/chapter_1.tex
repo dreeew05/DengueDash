@@ -1,0 +1,87 @@
+%   Filename    : chapter_1.tex 
+\chapter{Introduction}
+\label{sec:researchdesc}    %labels help you reference sections of your document
+
+\section{Overview of the Current State of Technology}
+\label{sec:overview}
+
+Dengue cases surged globally in 2023 and continued to rise in 2025, with over five million cases and more than 5,000 deaths across 80 countries \cite{bosano2023who}. The World Health Organization reported a ten-fold increase in cases from 2000 to 2019, peaking in 2019 with the disease affecting 129 countries (WHO, 2024). In the Philippines, dengue remains endemic, leading to prolonged and widespread outbreaks.
+
+In Iloilo, dengue cases escalated dramatically. By August 2023, the provincial health office reported 4,585 cases and 10 deaths, marking a 319\% increase from the previous year \cite{lena2024}. Iloilo has reached the outbreak threshold, and local authorities are on blue alert. In Iloilo City, 649 cases were recorded in 2024, with two deaths. Hospital capacity is strained, with non-COVID-19 hospital bed occupancy exceeding 76\%. This highlights the increasing pressure on healthcare resources in the region.
+
+In recent years, technology has played a growing role in improving disease surveillance across the globe. Internationally, a study published in Frontiers in Physics utilized the Kalman filter to predict COVID-19 deaths in Cear´ a, Brazil\cite{ahmadini2021analysis}. A study also suggests
+that weather-based forecasting models using variables like mean temperature and cumulative rainfall can provide early warnings of dengue outbreaks with high sensitivity and specificity, enabling predictions up to 16 weeks in advance \cite{hii2012forecast}. Locally, in Davao City, Ligue (2022) found that deep learning models can accurately predict dengue outbreaks by capturing complex, time-dependent patterns in environmental data. The study of Carvajal et. al. uses machine learning methods to reveal the temporal pattern of dengue cases in Metropolitan Manila and emphasizes the significance of relative humidity as a key meteorological factor, alongside rainfall and temperature, in influencing this pattern \cite{carvajal2018machine}.
+
+Most studies remain theoretical or academic, with limited translation into practical tools that communities and local health authorities can use for early warning and response. An example of such application is RabDash, developed by the University of the Philippines Mindanao. RabdashDC (2024) is a web-based dashboard for rabies data analytics. However, while RabDash demonstrates the potential of applying advanced analytics in public health, similar systems are lacking in the context of dengue. 
+
+\section{Problem Statement}
+Dengue remains a critical public health challenge worldwide, with cases increasing due to the easing of COVID-19 restrictions and heightened global mobility. While a temporary decline in cases was observed during the pandemic (2020–2022) due to reduced surveillance efforts, 2023 marked a resurgence, with over five million cases and more than 5,000 deaths reported across 80 countries \cite{bosano2023who}. In Iloilo City and Province, dengue cases rose by 319\% as of August 2023, overwhelming local healthcare systems. This surge strained resources, with over 76\% of non-COVID-19 hospital beds occupied by dengue patients \cite{lena2024}, highlighting the urgent need for effective monitoring and predictive tools. Despite all these studies, there remains a significant gap in the development of publicly accessible systems that apply these predictive models in real-world settings.  Most existing studies remain confined to academic or theoretical contexts, with little translation into practical tools for local communities and public health authorities. In particular, there is a lack of research focused specifically on dengue prediction and surveillance in Iloilo. While deep learning models have shown high accuracy in other regions, their application in the local context of Iloilo is minimal. The lack of a reliable system to monitor and forecast dengue outbreaks contributes to delayed interventions, exacerbating public health risks and healthcare burdens in the region. 
+
+
+\section{Research Objectives}
+\label{sec:researchobjectives}
+
+\subsection{General Objective}
+\label{sec:generalobjective}
+
+This study aims to develop a centralized monitoring and analytics system for dengue cases in Iloilo City and Province with data management and forecasting capabilities. 
+The researchers will train and compare multiple deep learning models to predict dengue case trends based on climate data and 
+historical dengue cases to help public health officials in dengue surveillance.
+
+
+\subsection{Specific Objectives}
+\label{sec:specificobjectives}
+
+%
+%  \begin{comment} ... \end{comment} is used for multiple lines of comment
+%
+
+Specifically, this study aims to:
+
+
+\begin{enumerate}
+	\item gather dengue data from the Iloilo Provincial Health Office and climate data (including temperature, rainfall, wind, and humidity) from online sources, and combine and aggregate these into a unified dataset to facilitate comprehensive dengue case forecasting;
+	\item train and evaluate deep learning models for predicting dengue cases using metrics such as Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and Mean Squared Error (MSE), and determine the most accurate forecasting approach; and
+	\item develop a web-based analytics dashboard that integrates the predictive model, provides a data management system for dengue cases in Iloilo City and the Province, and assess its usability and effectiveness through structured feedback from health professionals and policymakers.
+\end{enumerate}
+
+\section{Scope and Limitations of the Research}
+\label{sec:scopelimitations}
+
+This study aims to gather dengue data from the Iloilo Provincial Health Office and climate data from online sources such as PAGASA or weatherandclimate.com. These data will be preprocessed, cleaned, and combined into a unified dataset to facilitate comprehensive dengue case forecasting. However, the study is limited by the availability and completeness of historical data. Inconsistent or missing data points may introduce biases and reduce the quality of predictions. Furthermore, the granularity of the data will be in a weekly format.
+
+To evaluate deep learning models for predicting dengue cases, the study will train and compare the performance of various models, using metrics like Mean Absolute Error (MAE) and Root Mean Square Error (RMSE). While these models aim to provide accurate forecasts, their performance is heavily influenced by the quality and size of the dataset. Limited or low-quality data may lead to suboptimal predictions. Additionally, the models cannot fully account for external factors such as public health interventions or socio-economic conditions which may impact dengue transmission dynamics.
+
+The study also involves developing a web-based analytics dashboard that integrates predictive models and provides a data management system for dengue cases in Iloilo City and the Province. This dashboard will offer public health officials an interactive interface to visualize dengue trends, input new data, and identify risk areas. However, its usability depends on feedback from stakeholders, which may vary based on their familiarity with analytics tools. Moreover, external factors such as limited internet connectivity or device availability in remote areas may affect the system's adoption and effectiveness. While the dashboard provides valuable insights, it cannot incorporate all factors influencing dengue transmission, emphasizing the need for ongoing validation and refinement.
+
+
+
+\section{Significance of the Research}
+\label{sec:significance}
+
+This study’s development of an AI-based dengue forecasting and monitoring system has wide-reaching significance for various stakeholders in Iloilo City:
+
+\begin{itemize}
+	\item  Public Health Agencies: Organizations like the Department of Health (DOH) and local health units in Iloilo City and Province stand to benefit greatly from the system. With dengue predictions, we can help these agencies optimize their response strategies and implement targeted prevention measures in high-risk areas before cases escalate.
+\end{itemize}
+
+\begin{itemize} 
+	\item Local Government Units (LGUs): LGUs can use the system to support their disaster management and health initiatives by proactively addressing dengue outbreaks. The predictive insights allow for more efficient planning and resource deployment in barangays and communities most vulnerable to outbreaks, improving overall public health outcomes.
+\end{itemize}
+
+
+\begin{itemize} 
+	\item Healthcare Facilities: Hospitals and clinics, which currently face high bed occupancy rates during dengue season will benefit from early outbreak forecasts that can help in managing patient inflow and ensuring adequate hospital capacity. 
+\end{itemize}
+
+
+\begin{itemize} 
+	\item Researchers and Policymakers: This AI-driven approach contributes valuable insights for researchers studying infectious disease patterns and policymakers focused on strengthening the national AI Roadmap. The system's data can support broader initiatives for sustainable health infrastructure and inform policy decisions on resource allocation for dengue control.
+\end{itemize}
+
+
+\begin{itemize} 
+	\item Community Members: By reducing the frequency and severity of outbreaks, this study ultimately benefits the community at large. This allows for timely awareness campaigns and community engagement initiatives, empowering residents with knowledge and preventative measures to protect themselves and reduce the spread of dengue.
+\end{itemize}
+
+

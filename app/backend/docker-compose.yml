@@ -1,0 +1,23 @@
+services:
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: gunicorn backend.wsgi:application --bind 0.0.0.0:8000  --timeout 300
+    volumes:
+      - ./../backend:/denguedash-api
+
+      # Mount named volumes for persistence
+      - sqlite_data:/data/db
+      - static_volume:/denguedash-api/staticfiles
+      - media_volume:/denguedash-api/mediafiles
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    shm_size: '4g'
+
+volumes:
+  sqlite_data:
+  static_volume:
+  media_volume:

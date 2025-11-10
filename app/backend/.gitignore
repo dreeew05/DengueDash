@@ -1,0 +1,97 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
+
+# Environment variables file (commonly used for secrets)
+.env
+*.env
+
+# Database files
+*.sqlite3
+*.db
+
+# Ignore all files in migrations folders
+*/migrations/*
+# But include __init__.py
+!*/migrations/__init__.py
+
+# Django static and media files
+/static/
+/media/
+
+# Ignore Uploaded Pictures
+/profile_pictures/
+
+# Ignore virtual environments (virtualenv, venv, etc.)
+/venv/
+/env/
+/ENV/
+/.venv/
+
+# Ignore cache folders
+__pycache__/
+*.py[cod]
+
+# Logs and debug output
+*.log
+*.pot
+*.mo
+*.log
+
+# Local development settings
+local_settings.py
+
+# Node modules (if using Node.js for frontend)
+node_modules/
+
+# Ignore IDE and editor specific files
+.vscode/
+.idea/
+*.swp
+*~.nib
+*.sublime-workspace
+*.sublime-project
+
+# macOS-specific files
+.DS_Store
+
+# JetBrains specific files
+*.iml
+*.iws
+*.ipr
+
+# Coverage reports (for testing)
+htmlcov/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+
+# pipenv specific
+Pipfile.lock
+
+# Ignore compiled translations
+*.mo
+
+# Ignore celery beat schedule file
+celerybeat-schedule
+
+# Ignore gunicorn PID file
+gunicorn.pid
+
+# Pytest cache
+.pytest_cache/
+
+# Ignore exported models and metadata
+forecasting/ml-dl-models/*
+!forecasting/ml-dl-models/.gitkeep
+
+# Ignore all files in mediafiles folder
+mediafiles/*
+
+# But keep the default images (adjust paths as needed)
+!mediafiles/images/profile/default_profile.jpeg
+!mediafiles/images/id_card/default_id_card.jpeg

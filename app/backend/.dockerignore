@@ -1,0 +1,44 @@
+# Byte-compiled files
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Development and testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.mypy_cache/
+.vscode/
+.idea/
+
+# IDE-specific files (add others if you use different IDEs)
+*.swp
+*.swo
+
+# Media and static files generated during development (if not collected in a dedicated volume)
+media/
+static_collected/ # Or whatever directory you use for collected static files
+
+# Environment variables file (should be handled securely, not baked into the image)
+.env
+
+# Git and Docker files
+.git/
+.gitignore
+Dockerfile
+docker-compose*.yml
+
+# Logs and temporary files
+*.log
+*.tmp
+/tmp/
+
+# Distribution and packaging
+dist/
+build/
+*.egg-info/
